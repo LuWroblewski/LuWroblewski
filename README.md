@@ -26,7 +26,7 @@ Linguagens com que trabalho de forma junior:
 
 
 <div>
-<a href="https://github.com/small-lexy">
+<a href="https://github.com/LuWroblewski">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuWroblewski&langs_count=8&theme=radical"/>
 <img src="https://github-readme-stats.vercel.app/api?username=LuWroblewski&show_icons=true&theme=radical"/>
 
