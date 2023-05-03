@@ -56,6 +56,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/LuWroblewski/LuWroblewski/output/snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/LuWroblewski/LuWroblewski/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake animation" />
 
 ###
