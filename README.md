@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Olá 👋! Bem vindo ao perfil 😊<br><br>Atualmente estou procurando trabalhando como dev web 💻</h2>
+<h2 align="left">Olá 👋! Bem vindo ao perfil 😊<br><br>Atualmente estou trabalhando como dev full stack na Ninja Parts💻</h2>
 
 ###
 
