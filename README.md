@@ -1,41 +1,15 @@
-<img align="right" height="150" src="https://i.kym-cdn.com/photos/images/original/002/425/085/d33.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/23/7a/c5/237ac54cdea81df47af9a65f895ee6db.gif"  />
 
 ###
 
-<h2 align="left">Olá 👋! Bem vindo ao perfil 😊<br><br>Atualmente estou trabalhando como desenvolvedor full stack 💻</h2>
+<h2 align="left">Olá 👋! Bem-vindo ao meu perfil 😊<br><br>
+Atualmente trabalho como desenvolvedor full stack em uma empresa de transporte aéreo ✈️
+</h2>
+<p>Atuo em diversas frentes, incluindo Front-End, Back-End, segurança, análise de dados e desempenho. <br>
+Contribuo para decisões estratégicas como layout, padronização e performance, garantindo soluções eficientes e seguras para
+os projetos em que estou envolvido.</p>
 
-###
-
-<p align="left"></p>
-
-###
-
-<p align="left">As linguagens que tenho conhecimento atual são:</p>
-
-###
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="60" alt="nextjs logo"  />
-<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="60" alt="nextjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" width="60" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="60" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="60" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="60" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="60" alt="sass logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="60" alt="react logo"  />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" width="60" alt="react logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="60" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="60" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="60" alt="postgresql logo"  />
-</div>
-
-###
-
-<p align="left">Você pode me encontrar aqui:</p>
+<p align="left"><b>Meu melhor contato:</b></p>
 
 ###
 
@@ -45,19 +19,38 @@
   </a>
 </div>
 
-###
+#### Alguns de meus conhecimentos são:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuWroblewski&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuWroblewski&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,jquery,javascript,typescript,html,css,nodejs,rust,perl,php,c,tailwind,sass,bootstrap,postgres,firebase,mysql,mongodb,docker,git,aws,vercel,postman,vscode,arch,arduino,figma,blender" />
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuWroblewski/LuWroblewski/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuWroblewski/LuWroblewski/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LuWroblewski/LuWroblewski/output/github-contribution-grid-snake.svg">
-</picture>
+<b>🔥 Estatísticas do GitHub</b>
+<br/>
+
+  <div align="center">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=LuWroblewski&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" 
+      height="160" 
+      alt="GitHub Stats" 
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=LuWroblewski&layout=compact&langs_count=6&theme=dracula&hide_border=true" 
+      height="160" 
+      alt="Top Languages" 
+    />
+  </div>
+  
+###
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuWroblewski/LuWroblewski/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuWroblewski/LuWroblewski/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LuWroblewski/LuWroblewski/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ###
